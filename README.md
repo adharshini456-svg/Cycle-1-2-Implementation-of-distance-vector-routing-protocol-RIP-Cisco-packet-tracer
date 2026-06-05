@@ -1,6 +1,5 @@
 # Cycle-1-2-Implementation-of-distance-vector-routing-protocol-RIP-Cisco-packet-tracer
 # 🧪 EXPT.NO: 2  
-📅 DATE: *(Insert Date)*
 
 ## 📌 TITLE  
 **Implementation of Distance Vector Routing Protocol (RIP)**
@@ -46,7 +45,7 @@ To connect computers in multiple networks using Distance Vector Routing Protocol
 *(Insert diagram or screenshot from Packet Tracer)*
 
 ---
-<img width="1082" height="423" alt="image" src="https://github.com/user-attachments/assets/c87b4e16-a5ab-4f20-acba-4140468d3b4d" />
+<img width="951" height="408" alt="image" src="https://github.com/user-attachments/assets/e9aabb12-07c3-41b0-82c6-739aa11e739e" />
 
 ## 🧭 PROCEDURE
 
@@ -122,7 +121,8 @@ R 192.168.3.0 [120/1] via 192.168.2.2, FastEthernet0/1
 R 192.168.4.0 [120/1] via 192.168.2.2, FastEthernet0/1
 ```
 ---
-<img width="882" height="687" alt="image" src="https://github.com/user-attachments/assets/cdc69c5a-fd55-4456-8f96-b4d7cbbb0f11" />
+<img width="758" height="766" alt="image" src="https://github.com/user-attachments/assets/53a68f2d-55f1-4a0a-b6eb-cd739993a98a" />
+
 
 ### Expected output on Router1:
 ```
@@ -130,7 +130,8 @@ R 192.168.1.0 [120/1] via 192.168.2.1, FastEthernet0/0
 R 192.168.2.0 [120/1] via 192.168.2.1, FastEthernet0/0
 ```
 ---
-<img width="864" height="839" alt="image" src="https://github.com/user-attachments/assets/d9170e29-0377-4661-83a4-7c3df139bfb4" />
+<img width="768" height="763" alt="image" src="https://github.com/user-attachments/assets/499ff185-8bf8-49e2-9fe9-2cb7f3718387" />
+
 
 ## 📶 Ping Test Between PCs
 Example: Ping from PC0 to PC3
